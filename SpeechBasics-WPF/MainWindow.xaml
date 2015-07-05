@@ -1,0 +1,35 @@
+﻿<Window x:Class="KinectChris.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="723.135" Width="929.478" Loaded="Window_Loaded">
+    <Grid>
+        <Image x:Name="mostrarVideo" HorizontalAlignment="Left" Height="333" Margin="29,40,0,0" VerticalAlignment="Top" Width="369"/>
+        <Button x:Name="UP" Content="UP" HorizontalAlignment="Left" Margin="182,403,0,0" VerticalAlignment="Top" Width="75" Click="UP_Click"/>
+        <Button x:Name="DOWN" Content="DOWN" HorizontalAlignment="Left" Margin="182,501,0,0" VerticalAlignment="Top" Width="75" Click="DOWN_Click"/>
+        <Button x:Name="REST" Content="REST" HorizontalAlignment="Left" Margin="182,627,0,0" VerticalAlignment="Top" Width="75" Click="REST_Click"/>
+        <Button x:Name="FOTO" Content="FOTO" HorizontalAlignment="Left" Margin="289,501,0,0" VerticalAlignment="Top" Width="75" Click="FOTO_Click"/>
+        <Slider x:Name="sliderAzul" Maximum="255" Minimum="-255" Orientation="Vertical" Background="Blue" HorizontalAlignment="Left" Margin="56,403,0,0" VerticalAlignment="Top" Height="266" ValueChanged="sliderAzul_ValueChanged"/>
+        <Slider x:Name="sliderVerde" Maximum="255" Minimum="-255" Orientation="Vertical" Background="Green" HorizontalAlignment="Left" Margin="84,403,0,0" VerticalAlignment="Top" Height="266" ValueChanged="sliderVerde_ValueChanged"/>
+        <Slider x:Name="sliderRojo" Maximum="255" Minimum="-255" Orientation="Vertical" Background="Red" HorizontalAlignment="Left" Margin="116,403,0,0" VerticalAlignment="Top" Height="266" ValueChanged="sliderRojo_ValueChanged"/>
+        <TextBlock HorizontalAlignment="Center" FontSize="16" Margin="289,625,228,33" Width="404">
+            Say: "<Span Name="photoSpan">Photo</Span>" , "<Span Name="upSpan">UP</Span>", "<Span Name="downSpan">Down</Span>", "<Span Name="restoreSpan">Restore</Span>", "<Span Name="faceSpan">Face</Span>"
+        </TextBlock>
+        <StatusBar Grid.Row="3" Height="23" HorizontalAlignment="Stretch" Name="statusBar" VerticalAlignment="Bottom" Background="White" >
+            <StatusBarItem Padding="0">
+                <TextBlock Name="statusBarText"></TextBlock>
+            </StatusBarItem>
+        </StatusBar>
+        <Label x:Name="angule" Content="" HorizontalAlignment="Left" Margin="456,306,0,0" VerticalAlignment="Top"/>
+        <Canvas x:Name="canvasEsqueleto" HorizontalAlignment="Left" Height="480" Margin="438,42,0,0" VerticalAlignment="Top" Width="447" RenderTransformOrigin="0.5,0.5">
+            <Canvas.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.24"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Canvas.RenderTransform>
+        </Canvas>
+
+    </Grid>
+</Window>

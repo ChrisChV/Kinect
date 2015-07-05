@@ -1,0 +1,38 @@
+﻿<grammar version="1.0" xml:lang="en-US" root="rootRule" tag-format="semantics/1.0-literals" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="rootRule">
+    <one-of>
+      <item>
+        <tag>PHOTO</tag>
+        <one-of>
+          <item> photo </item>
+          <item> phot </item>
+          <item> shot </item>
+        </one-of>
+      </item>
+    <item>
+        <tag>UP</tag>
+        <one-of>
+          <item> up </item>
+        </one-of>
+      </item>
+    <item>
+        <tag>DOWN</tag>
+        <one-of>
+          <item> down </item>
+        </one-of>
+      </item>
+    <item>
+        <tag>RESTORE</tag>
+        <one-of>
+          <item> restore </item>
+        </one-of>
+      </item>
+    <item>
+        <tag>FACE</tag>
+        <one-of>
+          <item> face </item>
+        </one-of>
+      </item>
+    </one-of>
+  </rule>
+</grammar>
