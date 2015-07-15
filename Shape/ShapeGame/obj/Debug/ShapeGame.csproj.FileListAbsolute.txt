@@ -1,0 +1,17 @@
+G:\Reconocimiento de voz\Shape\ShapeGame\bin\Debug\ShapeGame.exe.config
+G:\Reconocimiento de voz\Shape\ShapeGame\bin\Debug\ShapeGame.exe
+G:\Reconocimiento de voz\Shape\ShapeGame\bin\Debug\ShapeGame.pdb
+G:\Reconocimiento de voz\Shape\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.dll
+G:\Reconocimiento de voz\Shape\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+G:\Reconocimiento de voz\Shape\ShapeGame\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+G:\Reconocimiento de voz\Shape\ShapeGame\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+G:\Reconocimiento de voz\Shape\ShapeGame\obj\Debug\ShapeGame.csprojResolveAssemblyReference.cache
+G:\Reconocimiento de voz\Shape\ShapeGame\obj\Debug\MainWindow.baml
+G:\Reconocimiento de voz\Shape\ShapeGame\obj\Debug\MainWindow.g.cs
+G:\Reconocimiento de voz\Shape\ShapeGame\obj\Debug\App.g.cs
+G:\Reconocimiento de voz\Shape\ShapeGame\obj\Debug\ShapeGame_MarkupCompile.cache
+G:\Reconocimiento de voz\Shape\ShapeGame\obj\Debug\ShapeGame.g.resources
+G:\Reconocimiento de voz\Shape\ShapeGame\obj\Debug\ShapeGame.Properties.Resources.resources
+G:\Reconocimiento de voz\Shape\ShapeGame\obj\Debug\ShapeGame.csproj.GenerateResource.Cache
+G:\Reconocimiento de voz\Shape\ShapeGame\obj\Debug\ShapeGame.exe
+G:\Reconocimiento de voz\Shape\ShapeGame\obj\Debug\ShapeGame.pdb

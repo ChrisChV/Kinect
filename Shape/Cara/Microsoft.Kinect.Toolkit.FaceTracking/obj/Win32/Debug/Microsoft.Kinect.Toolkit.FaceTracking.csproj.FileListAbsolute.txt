@@ -1,0 +1,7 @@
+G:\Reconocimiento de voz\Shape\Cara\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Debug\FaceTrackData.dll
+G:\Reconocimiento de voz\Shape\Cara\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Debug\FaceTrackLib.dll
+G:\Reconocimiento de voz\Shape\Cara\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+G:\Reconocimiento de voz\Shape\Cara\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+G:\Reconocimiento de voz\Shape\Cara\Microsoft.Kinect.Toolkit.FaceTracking\obj\Win32\Debug\Microsoft.Kinect.Toolkit.FaceTracking.csprojResolveAssemblyReference.cache
+G:\Reconocimiento de voz\Shape\Cara\Microsoft.Kinect.Toolkit.FaceTracking\obj\Win32\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+G:\Reconocimiento de voz\Shape\Cara\Microsoft.Kinect.Toolkit.FaceTracking\obj\Win32\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb

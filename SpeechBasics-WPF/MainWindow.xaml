@@ -11,7 +11,7 @@
         <Slider x:Name="sliderAzul" Maximum="255" Minimum="-255" Orientation="Vertical" Background="Blue" HorizontalAlignment="Left" Margin="56,403,0,0" VerticalAlignment="Top" Height="266" ValueChanged="sliderAzul_ValueChanged"/>
         <Slider x:Name="sliderVerde" Maximum="255" Minimum="-255" Orientation="Vertical" Background="Green" HorizontalAlignment="Left" Margin="84,403,0,0" VerticalAlignment="Top" Height="266" ValueChanged="sliderVerde_ValueChanged"/>
         <Slider x:Name="sliderRojo" Maximum="255" Minimum="-255" Orientation="Vertical" Background="Red" HorizontalAlignment="Left" Margin="116,403,0,0" VerticalAlignment="Top" Height="266" ValueChanged="sliderRojo_ValueChanged"/>
-        <TextBlock HorizontalAlignment="Center" FontSize="16" Margin="289,625,228,33" Width="404">
+        <TextBlock HorizontalAlignment="Center" FontSize="16" Margin="315,625,202,33" Width="404">
             Say: "<Span Name="photoSpan">Photo</Span>" , "<Span Name="upSpan">UP</Span>", "<Span Name="downSpan">Down</Span>", "<Span Name="restoreSpan">Restore</Span>", "<Span Name="faceSpan">Face</Span>"
         </TextBlock>
         <StatusBar Grid.Row="3" Height="23" HorizontalAlignment="Stretch" Name="statusBar" VerticalAlignment="Bottom" Background="White" >
@@ -19,7 +19,7 @@
                 <TextBlock Name="statusBarText"></TextBlock>
             </StatusBarItem>
         </StatusBar>
-        <Label x:Name="angule" Content="" HorizontalAlignment="Left" Margin="456,306,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="angule" Content="" HorizontalAlignment="Left" Margin="345,438,0,0" VerticalAlignment="Top"/>
         <Canvas x:Name="canvasEsqueleto" HorizontalAlignment="Left" Height="480" Margin="438,42,0,0" VerticalAlignment="Top" Width="447" RenderTransformOrigin="0.5,0.5">
             <Canvas.RenderTransform>
                 <TransformGroup>
@@ -30,6 +30,7 @@
                 </TransformGroup>
             </Canvas.RenderTransform>
         </Canvas>
+        <Label Content="Angulo:" HorizontalAlignment="Left" Margin="289,438,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.658,1.423"/>
 
     </Grid>
 </Window>

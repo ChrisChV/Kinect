@@ -1,0 +1,13 @@
+G:\Reconocimiento de voz\Shape\Cara\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+G:\Reconocimiento de voz\Shape\Cara\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+G:\Reconocimiento de voz\Shape\Cara\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+G:\Reconocimiento de voz\Shape\Cara\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+G:\Reconocimiento de voz\Shape\Cara\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+G:\Reconocimiento de voz\Shape\Cara\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+G:\Reconocimiento de voz\Shape\Cara\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+G:\Reconocimiento de voz\Shape\Cara\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+G:\Reconocimiento de voz\Shape\Cara\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+G:\Reconocimiento de voz\Shape\Cara\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+G:\Reconocimiento de voz\Shape\Cara\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+G:\Reconocimiento de voz\Shape\Cara\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+G:\Reconocimiento de voz\Shape\Cara\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb

@@ -24,3 +24,6 @@ G:\Kinect-master\Practica 8\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPoi
 G:\Kinect-master\Practica 8\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.g.resources
 G:\Kinect-master\Practica 8\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.Properties.Resources.resources
 G:\Kinect-master\Practica 8\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.csproj.GenerateResource.Cache
+G:\Reconocimiento de voz\PowerPointKinect\PowerPointKinect\bin\Debug\PowerPointKinect.exe.config
+G:\Reconocimiento de voz\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.exe
+G:\Reconocimiento de voz\PowerPointKinect\PowerPointKinect\obj\Debug\PowerPointKinect.pdb
